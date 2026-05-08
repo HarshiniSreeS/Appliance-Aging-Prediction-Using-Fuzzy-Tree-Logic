@@ -1,0 +1,1 @@
+# Appliance-Aging-Prediction-Using-Fuzzy-Tree-Logic
